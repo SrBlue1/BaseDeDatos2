@@ -1,0 +1,1 @@
+db.integraciones_ecommerce.createIndex({ id_comerciante: 1, plataforma: 1 });

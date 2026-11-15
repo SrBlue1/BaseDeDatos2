@@ -1,0 +1,1 @@
+db.promociones.createIndex({ id_comerciante: 1 });

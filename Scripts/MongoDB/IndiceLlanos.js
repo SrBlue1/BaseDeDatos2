@@ -1,0 +1,1 @@
+db.productos.createIndex({ id_comerciante: 1 });

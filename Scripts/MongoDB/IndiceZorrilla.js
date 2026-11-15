@@ -1,0 +1,1 @@
+db.inventario_flujo_local.createIndex({ id_variante_sku: 1 });
